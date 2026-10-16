@@ -1,16 +1,18 @@
-## Hi there 👋
+Hello 👋
 
-<!--
-**pedrockh/pedrockh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Mechatronic Technician and Cybersecurity student at UNIFEI, currently working on undergraduate research in Artificial Intelligence and Biomedical Applications.
+I'm interested in understanding how intelligent systems work, especially where **AI, healthcare, computing and cybersecurity** meet.
+Currently exploring **Artificial Intelligence, Biomedical Data, Cybersecurity, Systems Programming and Linux**.
+```
+Artificial Intelligence · Biomedical Computing · Cybersecurity · Systems · Linux · Python
+```
 
-Here are some ideas to get you started:
+ Currently
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Studying cybersecurity at UNIFEI  
+🧠 Conducting undergraduate research in AI and biomedical applications  
+🔐 Exploring cybersecurity and computer systems  
+
+Connect with me
+
+[LinkedIn](https://www.linkedin.com/in/pedrohenriqueoliveiras)
